@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="pieces - Copy.svg"
+   sodipodi:docname="events.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5"
-     inkscape:cx="192"
-     inkscape:cy="603"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="921.36014"
+     inkscape:cy="868.68068"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="g3" />
   <defs
      id="defs1">
     <filter
@@ -1166,7 +1166,7 @@
                        id="tspan7-0-51-8-6"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
                        x="214.33653"
-                       y="-130.91049">Tauschen mit anderer Figur</tspan></text>
+                       y="-130.91049">Tauschen mit irgendeiner Figur</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:round"
@@ -1202,7 +1202,7 @@
                        id="tspan7-0-5-3-7-4-9-8"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
                        x="215.10921"
-                       y="-109.91315">Tauschen mit irgendeiner Figur</tspan></text>
+                       y="-109.91315">Irgendein Objekt bewegen</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:3.15519px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.37266;stroke-linecap:round"
@@ -1235,15 +1235,10 @@
                      id="text24-8"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
-                       id="tspan24-2"
                        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.7338px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.12619"
                        x="188.59315"
-                       y="-35.486961">Kann sich jederzeit mit fertiger Figur tauschen</tspan><tspan
-                       sodipodi:role="line"
-                       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.7338px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.12619"
-                       x="188.59315"
-                       y="-24.39385"
-                       id="tspan3">Kann selber nicht zum Endpunkt kommen</tspan></text>
+                       y="-35.486961"
+                       id="tspan3">Kann sich jeden Zug mit einer eigenen Figur tauschen</tspan></text>
                 </g>
                 <path
                    sodipodi:type="star"
@@ -1274,94 +1269,89 @@
                  y="-201.29953"
                  transform="matrix(0,-1,-1,0,0,0)"
                  style="display:inline" />
-              <g
-                 id="g1"
-                 transform="matrix(0.54647999,0,0,0.54647999,-44.62711,156.67111)"
-                 style="display:inline">
-                <path
-                   sodipodi:type="star"
-                   style="display:inline;opacity:0.25;fill:#008080;fill-opacity:0.955617;stroke:none;stroke-width:1;stroke-linecap:round"
-                   id="path7-3-6-1-8-2"
-                   inkscape:flatsided="false"
-                   sodipodi:sides="5"
-                   sodipodi:cx="54.389393"
-                   sodipodi:cy="216.25639"
-                   sodipodi:r1="8.3802567"
-                   sodipodi:r2="4.1901283"
-                   sodipodi:arg1="1.0471976"
-                   sodipodi:arg2="1.6755161"
-                   inkscape:rounded="0"
-                   inkscape:randomized="0"
-                   d="m 58.579521,223.51391 -4.628116,-3.09034 -5.169499,2.06057 1.508923,-5.35657 -3.557181,-4.27973 5.560681,-0.2202 2.97104,-4.7056 1.927767,5.22048 5.393385,1.37152 -4.369255,3.44663 z"
-                   inkscape:transform-center-x="0.021144131"
-                   inkscape:transform-center-y="2.5652786"
-                   transform="matrix(-3.2139789,-0.32957812,-0.32957812,3.2139789,713.56132,-382.62652)" />
-                <text
-                   xml:space="preserve"
-                   style="font-size:3.49967px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.413347;stroke-linecap:round"
-                   x="450.4263"
-                   y="298.19376"
-                   id="text7-6-2-0-5"><tspan
-                     sodipodi:role="line"
-                     id="tspan7-0-5-9-9"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49967px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.413347"
-                     x="450.4263"
-                     y="298.19376">Zug-Richtungswechsel</tspan></text>
-                <text
-                   xml:space="preserve"
-                   style="font-size:3.49967px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.413347;stroke-linecap:round"
-                   x="450.50668"
-                   y="281.73947"
-                   id="text7-6-2-8-7-3-0"><tspan
-                     sodipodi:role="line"
-                     id="tspan7-0-5-3-7-4-5"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49967px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.413347"
-                     x="450.50668"
-                     y="281.73947">Noch ein Zug</tspan></text>
-                <text
-                   xml:space="preserve"
-                   style="font-size:3.49967px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.413347;stroke-linecap:round"
-                   x="450.32593"
-                   y="290.3718"
-                   id="text7-6-2-8-7-3-0-3"><tspan
-                     sodipodi:role="line"
-                     id="tspan7-0-5-3-7-4-5-7"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49967px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.413347"
-                     x="450.32593"
-                     y="290.3718">Nächster Spieler gesperrt</tspan></text>
-                <text
-                   xml:space="preserve"
-                   style="font-size:3.49967px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.413347;stroke-linecap:round"
-                   x="450.4646"
-                   y="307.26804"
-                   id="text7-6-2-8-1-9-8"><tspan
-                     sodipodi:role="line"
-                     id="tspan7-0-5-3-6-9-8"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49967px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.413347"
-                     x="450.4646"
-                     y="307.26804">Alle +1 Feld</tspan></text>
-                <text
-                   xml:space="preserve"
-                   style="font-size:3.49967px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.413347;stroke-linecap:round"
-                   x="450.72284"
-                   y="315.11032"
-                   id="text7-6-2-8-1-9-8-6"><tspan
-                     sodipodi:role="line"
-                     id="tspan7-0-5-3-6-9-8-1"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49967px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.413347"
-                     x="450.72284"
-                     y="315.11032">Alle -1 Feld</tspan></text>
-                <path
-                   style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ArrowWide)"
-                   d="m 451.51145,271.59479 c 27.60086,-0.0666 37.34713,1.80954 51.05585,1.41143"
-                   id="path3"
-                   sodipodi:nodetypes="cc" />
-                <path
-                   style="display:inline;fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ArrowWide-4)"
-                   d="m 516.01426,272.198 c 27.60086,-0.0666 37.34713,1.80954 51.05585,1.41143"
-                   id="path3-3"
-                   sodipodi:nodetypes="cc" />
-              </g>
+              <path
+                 sodipodi:type="star"
+                 style="display:inline;opacity:0.25;fill:#008080;fill-opacity:0.955617;stroke:none;stroke-width:1;stroke-linecap:round"
+                 id="path7-3-6-1-8-2"
+                 inkscape:flatsided="false"
+                 sodipodi:sides="5"
+                 sodipodi:cx="54.389393"
+                 sodipodi:cy="216.25639"
+                 sodipodi:r1="8.3802567"
+                 sodipodi:r2="4.1901283"
+                 sodipodi:arg1="1.0471976"
+                 sodipodi:arg2="1.6755161"
+                 inkscape:rounded="0"
+                 inkscape:randomized="0"
+                 d="m 58.579521,223.51391 -4.628116,-3.09034 -5.169499,2.06057 1.508923,-5.35657 -3.557181,-4.27973 5.560681,-0.2202 2.97104,-4.7056 1.927767,5.22048 5.393385,1.37152 -4.369255,3.44663 z"
+                 inkscape:transform-center-x="0.021144131"
+                 inkscape:transform-center-y="2.5652786"
+                 transform="matrix(-1.7563752,-0.18010785,-0.18010785,1.7563752,345.31987,-52.426627)" />
+              <text
+                 xml:space="preserve"
+                 style="font-size:1.9125px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.225886;stroke-linecap:round"
+                 x="201.52185"
+                 y="319.62802"
+                 id="text7-6-2-0-5"><tspan
+                   sodipodi:role="line"
+                   id="tspan7-0-5-9-9"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9125px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225886"
+                   x="201.52185"
+                   y="319.62802">Zug-Richtungswechsel</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:1.9125px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.225886;stroke-linecap:round"
+                 x="201.56578"
+                 y="310.63611"
+                 id="text7-6-2-8-7-3-0"><tspan
+                   sodipodi:role="line"
+                   id="tspan7-0-5-3-7-4-5"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9125px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225886"
+                   x="201.56578"
+                   y="310.63611">Noch ein Zug</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:1.9125px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.225886;stroke-linecap:round"
+                 x="201.467"
+                 y="315.35349"
+                 id="text7-6-2-8-7-3-0-3"><tspan
+                   sodipodi:role="line"
+                   id="tspan7-0-5-3-7-4-5-7"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9125px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225886"
+                   x="201.467"
+                   y="315.35349">Nächster Spieler gesperrt</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:1.9125px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.225886;stroke-linecap:round"
+                 x="201.54279"
+                 y="324.58694"
+                 id="text7-6-2-8-1-9-8"><tspan
+                   sodipodi:role="line"
+                   id="tspan7-0-5-3-6-9-8"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9125px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225886"
+                   x="201.54279"
+                   y="324.58694">Alle +1 Feld</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-size:1.9125px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.225886;stroke-linecap:round"
+                 x="201.6839"
+                 y="328.87259"
+                 id="text7-6-2-8-1-9-8-6"><tspan
+                   sodipodi:role="line"
+                   id="tspan7-0-5-3-6-9-8-1"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9125px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.225886"
+                   x="201.6839"
+                   y="328.87259">Alle -1 Feld</tspan></text>
+              <path
+                 style="fill:none;stroke:#000000;stroke-width:0.273239;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ArrowWide)"
+                 d="m 202.11486,305.09223 c 15.08332,-0.0364 20.40946,0.98888 27.901,0.77132"
+                 id="path3"
+                 sodipodi:nodetypes="cc" />
+              <path
+                 style="display:inline;fill:none;stroke:#000000;stroke-width:0.273239;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#ArrowWide-4)"
+                 d="m 237.36436,305.42187 c 15.08332,-0.0364 20.40946,0.98888 27.901,0.77132"
+                 id="path3-3"
+                 sodipodi:nodetypes="cc" />
               <g
                  id="g2"
                  transform="matrix(0.54647999,0,0,0.54647999,-44.218151,156.87558)"
@@ -1519,15 +1509,15 @@
                      y="289.62296">Positionen farbrotierend tauschen</tspan></text>
                 <text
                    xml:space="preserve"
-                   style="font-size:3.49967px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.413347;stroke-linecap:round"
-                   x="549.72369"
-                   y="281.0264"
+                   style="font-size:3.3708px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.398126;stroke-linecap:round"
+                   x="549.73389"
+                   y="280.93259"
                    id="text7-6-2-8-7-3-0-2"><tspan
                      sodipodi:role="line"
                      id="tspan7-0-5-3-7-4-5-4"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.49967px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.413347"
-                     x="549.72369"
-                     y="281.0264">Stern-Feld für jede Figur auslösen</tspan></text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.3708px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.398126"
+                     x="549.73389"
+                     y="280.93259">Eigenevent für jede Figur auslösen</tspan></text>
                 <text
                    xml:space="preserve"
                    style="font-size:3.49967px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.413347;stroke-linecap:round"
