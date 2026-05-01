@@ -7,7 +7,7 @@
    viewBox="0 0 297 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="board.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,16 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="606.34407"
-     inkscape:cy="513.00597"
-     inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="1011"
+     inkscape:cy="595.99998"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g30" />
+     inkscape:current-layer="g30"
+     showgrid="false" />
   <defs
      id="defs1">
     <filter
@@ -1014,7 +1015,9 @@
                width="9.4724722"
                height="9.4724722"
                x="45.108559"
-               y="276.17599" />
+               y="276.17599"
+               ry="1.8725868"
+               rx="1.8725868" />
             <path
                sodipodi:type="star"
                style="opacity:0.25;fill:#808000;stroke:#808000;stroke-width:0.477776;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -1044,7 +1047,9 @@
                width="9.4724722"
                height="9.4724722"
                x="45.108559"
-               y="276.17599" />
+               y="276.17599"
+               rx="1.8725868"
+               ry="1.8725868" />
           </g>
           <path
              sodipodi:type="star"
@@ -1146,7 +1151,9 @@
                width="9.4724722"
                height="9.4724722"
                x="45.108559"
-               y="276.17599" />
+               y="276.17599"
+               rx="1.8725868"
+               ry="1.8725868" />
             <path
                sodipodi:type="star"
                style="opacity:0.25;fill:#800000;stroke:#800000;stroke-width:0.477776;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -1265,7 +1272,9 @@
                height="16.244026"
                x="-400.95523"
                y="114.42082"
-               transform="rotate(-90)" />
+               transform="rotate(-90)"
+               rx="3.2112367"
+               ry="3.2112367" />
           </g>
           <g
              id="g10"
