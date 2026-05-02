@@ -24,14 +24,14 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="0.7071068"
-     inkscape:cx="-48.08326"
-     inkscape:cy="229.10259"
+     inkscape:cx="535.27982"
+     inkscape:cy="388.90872"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15-4"
+     inkscape:current-layer="g30"
      showgrid="false"
      inkscape:lockguides="true" />
   <defs
@@ -652,8 +652,8 @@
      height="297"
      x="38.163769"
      y="145.05179"
-     transform="translate(-38.163767,-145.05179)"
-     sodipodi:insensitive="true" />
+     sodipodi:insensitive="true"
+     transform="translate(-38.163767,-145.05179)" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -3268,12 +3268,12 @@
            xml:space="preserve"
            style="font-size:7.37784px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';text-align:center;text-anchor:middle;display:inline;opacity:0.5;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.642247;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stop-color:#000000"
            x="72.770027"
-           y="279.04044"
+           y="280.05997"
            id="text20055-4"><tspan
              sodipodi:role="line"
              style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.642247;stroke-dasharray:none"
              x="72.770027"
-             y="279.04044"
+             y="280.05997"
              id="tspan20057-1">oida,</tspan></text>
         <text
            xml:space="preserve"
