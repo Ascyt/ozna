@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="events-printable.svg"
+   inkscape:export-filename="events-printable.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +27,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="1"
-     inkscape:cx="474.5"
-     inkscape:cy="507"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="250.74999"
+     inkscape:cy="160"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2"
+     inkscape:current-layer="g8-1-3-9"
      showgrid="false" />
   <defs
      id="defs1">
@@ -1025,14 +1028,14 @@
                    xml:space="preserve"
                    style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:2.09713;stroke-linecap:round"
                    x="216.19777"
-                   y="-111.6174"
+                   y="-113.38655"
                    id="text7-6-2-8"
                    transform="scale(1,-1)"><tspan
                      sodipodi:role="line"
                      id="tspan7-0-5-3"
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.09713"
                      x="216.19777"
-                     y="-111.6174">Portal setzen</tspan></text>
+                     y="-113.38655">Portal setzen</tspan></text>
                 <text
                    xml:space="preserve"
                    style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:2.09713;stroke-linecap:round"
@@ -1047,16 +1050,16 @@
                      y="-131.05931">Schild setzen</tspan></text>
                 <text
                    xml:space="preserve"
-                   style="font-size:3.15519px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.781515;stroke-linecap:round"
-                   x="216.81261"
-                   y="-108.30193"
+                   style="font-size:5.58602px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.781516;stroke-linecap:round"
+                   x="216.65356"
+                   y="-108.32037"
                    id="text7-6-2-8-8"
                    transform="scale(1,-1)"><tspan
                      sodipodi:role="line"
                      id="tspan7-0-5-3-9"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15519px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781515"
-                     x="216.81261"
-                     y="-108.30193">beide müssen hinter dir sein</tspan></text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.58602px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781516"
+                     x="216.65356"
+                     y="-108.32037">beide müssen hinter dir sein</tspan></text>
                 <text
                    xml:space="preserve"
                    style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:2.09713;stroke-linecap:round"
@@ -1095,7 +1098,7 @@
                      style="fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.944426;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
                      d="m 57.117077,37.35911 c -0.300384,-0.01114 -0.748115,0.116869 -1.155453,0.388588 -0.557501,0.371886 -1.015547,1.056667 -1.103109,1.673832 0.09416,-0.04062 0.218159,-0.08582 0.363292,-0.119476 v -1.96e-4 c 0.336374,-0.07801 0.785519,-0.09353 1.239709,0.159367 0.274568,0.152883 0.463138,0.122547 0.618785,0.06733 0.03025,-0.01073 0.05773,-0.02217 0.08231,-0.03386 -0.161266,-0.338726 -0.267984,-0.919503 0.225136,-1.689203 0.182607,-0.285027 0.02972,-0.435242 -0.270669,-0.446381 z" />
                   <path
-                     style="fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.612084;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+                     style="fill:none;fill-opacity:1;stroke:#800080;stroke-width:0.29741757;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
                      d="m 54.830257,39.835814 c 0,0 0.714739,-0.451649 1.437538,-0.04918 0.507389,0.282527 0.92934,0.123073 1.147061,-0.0075"
                      id="path28"
                      sodipodi:nodetypes="csc" />
@@ -1380,18 +1383,6 @@
                        y="-91.251923">Irgendein Objekt entfernen</tspan></text>
                   <text
                      xml:space="preserve"
-                     style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:2.09713;stroke-linecap:round"
-                     x="215.91983"
-                     y="-70.883209"
-                     id="text7-6-2-8-9-6-4"
-                     transform="scale(1,-1)"><tspan
-                       sodipodi:role="line"
-                       id="tspan7-0-5-3-68-8-2"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.09713"
-                       x="215.91983"
-                       y="-70.883209">Portal setzen</tspan></text>
-                  <text
-                     xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:2.09713;stroke-linecap:round"
                      x="215.10921"
                      y="-109.91315"
@@ -1402,18 +1393,6 @@
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.09713"
                        x="215.10921"
                        y="-109.91315">Irgendein Objekt bewegen</tspan></text>
-                  <text
-                     xml:space="preserve"
-                     style="font-size:3.15519px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.781515;stroke-linecap:round"
-                     x="216.53467"
-                     y="-67.567734"
-                     id="text7-6-2-8-8-8-8-6"
-                     transform="scale(1,-1)"><tspan
-                       sodipodi:role="line"
-                       id="tspan7-0-5-3-9-4-9-2"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.15519px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781515"
-                       x="216.53467"
-                       y="-67.567734">beide müssen hinter dir sein</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:2.09713;stroke-linecap:round"
@@ -1438,6 +1417,30 @@
                        x="198.29465"
                        y="-36.33057"
                        id="tspan3">Kann sich jeden Zug mit einer eigenen Figur tauschen</tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:2.09713;stroke-linecap:round"
+                     x="215.77341"
+                     y="-72.51001"
+                     id="text7-6-2-8-3"
+                     transform="scale(1,-1)"><tspan
+                       sodipodi:role="line"
+                       id="tspan7-0-5-3-4"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.09713"
+                       x="215.77341"
+                       y="-72.51001">Portal setzen</tspan></text>
+                  <text
+                     xml:space="preserve"
+                     style="font-size:5.58602px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.781516;stroke-linecap:round"
+                     x="216.2292"
+                     y="-67.443832"
+                     id="text7-6-2-8-8-1"
+                     transform="scale(1,-1)"><tspan
+                       sodipodi:role="line"
+                       id="tspan7-0-5-3-9-7"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.58602px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.781516"
+                       x="216.2292"
+                       y="-67.443832">beide müssen hinter dir sein</tspan></text>
                 </g>
                 <path
                    style="display:inline;opacity:0.25;fill:#800080;fill-opacity:1;stroke:none;stroke-width:7.07843;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -1527,7 +1530,7 @@
                      id="tspan7-0-5-3-7-4-5-7"
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9125px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.386284"
                      x="201.467"
-                     y="315.35349">Nächster Spieler gesperrt</tspan></text>
+                     y="315.35349">Beliebiger Spieler gesperrt</tspan></text>
                 <text
                    xml:space="preserve"
                    style="font-size:1.9125px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.386284;stroke-linecap:round"
