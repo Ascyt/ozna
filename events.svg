@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="430.62803"
-     inkscape:cy="390.32294"
+     inkscape:zoom="1"
+     inkscape:cx="139.5"
+     inkscape:cy="414"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -1075,6 +1075,17 @@
                        x="216.18039"
                        y="-107.36591">beide müssen hinter dir sein</tspan></text>
                 </g>
+                <text
+                   xml:space="preserve"
+                   style="font-size:3.61009px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:1.70555;stroke-linecap:round"
+                   x="430.43317"
+                   y="194.4563"
+                   id="text24-7-2"><tspan
+                     sodipodi:role="line"
+                     id="tspan24-1-6"
+                     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.61009px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#800080;fill-opacity:1;stroke:none;stroke-width:1.70555"
+                     x="430.43317"
+                     y="194.4563">Darf sich rückwärts bewegen</tspan></text>
                 <g
                    id="g8-1"
                    inkscape:label="bomber"
@@ -1180,15 +1191,15 @@
                   <text
                      xml:space="preserve"
                      style="font-size:8.28294px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none;stroke-width:3.91319;stroke-linecap:round"
-                     x="199.08083"
-                     y="-36.748123"
+                     x="195.70638"
+                     y="-35.060905"
                      id="text24"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan24"
                        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.28294px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#800080;fill-opacity:1;stroke:none;stroke-width:3.91319"
-                       x="199.08083"
-                       y="-36.748123">Effekt von Bomben und Schildern getauscht</tspan></text>
+                       x="195.70638"
+                       y="-35.060905">Effekt von Bomben und Schildern getauscht</tspan></text>
                   <text
                      xml:space="preserve"
                      transform="matrix(0.64009965,0,0,-0.64009965,-284.33409,383.5223)"
@@ -1295,15 +1306,15 @@
                   <text
                      xml:space="preserve"
                      style="font-size:8.7338px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.1262;stroke-linecap:round"
-                     x="197.28108"
-                     y="-34.569351"
+                     x="195.59386"
+                     y="-32.882133"
                      id="text24-7"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan24-1"
                        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.7338px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.1262"
-                       x="197.28108"
-                       y="-34.569351">Bewegt sich nach jedem Zug um ein Feld nach vorne</tspan></text>
+                       x="195.59386"
+                       y="-32.882133">Bewegt sich nach jedem Zug um ein Feld nach vorne</tspan></text>
                 </g>
                 <g
                    style="display:inline;opacity:0.25;fill:#800080;fill-opacity:1;fill-rule:evenodd"
@@ -1338,51 +1349,51 @@
                   <text
                      xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:round"
-                     x="214.90475"
-                     y="-49.122746"
+                     x="214.13208"
+                     y="-70.120087"
                      id="text7-4-3-1"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan7-9-8-5"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-                       x="214.90475"
-                       y="-49.122746">Schild setzen</tspan></text>
+                       x="214.13208"
+                       y="-70.120087">Schild setzen</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:round"
-                     x="214.33653"
-                     y="-130.91049"
+                     x="214.81488"
+                     y="-49.203876"
                      id="text7-6-6-0-8"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan7-0-51-8-6"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-                       x="214.33653"
-                       y="-130.91049">Tauschen mit irgendeiner Figur</tspan></text>
+                       x="214.81488"
+                       y="-49.203876">Tot</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:round"
-                     x="215.80508"
-                     y="-91.251923"
+                     x="214.1888"
+                     y="-110.56206"
                      id="text7-6-2-0-8-1"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan7-0-5-9-0-2"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-                       x="215.80508"
-                       y="-91.251923">Irgendein Objekt entfernen</tspan></text>
+                       x="214.1888"
+                       y="-110.56206">Irgendein Objekt entfernen</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:round"
-                     x="215.10921"
-                     y="-109.91315"
+                     x="214.33653"
+                     y="-130.91049"
                      id="text7-6-2-8-7-3-1-5"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan7-0-5-3-7-4-9-8"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-                       x="215.10921"
-                       y="-109.91315">Irgendein Objekt bewegen</tspan></text>
+                       x="214.33653"
+                       y="-130.91049">Irgendein Objekt bewegen</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:8.46667px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:round"
@@ -1398,39 +1409,39 @@
                   <text
                      xml:space="preserve"
                      style="font-size:8.7338px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.12619;stroke-linecap:round"
-                     x="198.29465"
-                     y="-36.33057"
+                     x="194.9202"
+                     y="-34.643353"
                      id="text24-8"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.7338px;font-family:Arial;-inkscape-font-specification:'Arial Italic';fill:#800080;fill-opacity:1;stroke:none;stroke-width:4.12619"
-                       x="198.29465"
-                       y="-36.33057"
+                       x="194.9202"
+                       y="-34.643353"
                        id="tspan3">Kann sich jeden Zug mit einer eigenen Figur tauschen</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:8.55867px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:1;stroke-linecap:round"
-                     x="214.6248"
-                     y="-71.567268"
+                     x="213.85213"
+                     y="-92.564613"
                      id="text7-6-2-8-3-3"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan7-0-5-3-4-8"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.55867px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
-                       x="214.6248"
-                       y="-71.567268">Portal setzen</tspan></text>
+                       x="213.85213"
+                       y="-92.564613">Portal setzen</tspan></text>
                   <text
                      xml:space="preserve"
                      style="font-size:5.64676px;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:#800080;stroke-width:0.37266;stroke-linecap:round"
-                     x="215.08557"
-                     y="-66.446014"
+                     x="214.3129"
+                     y="-87.443359"
                      id="text7-6-2-8-8-1-7"
                      transform="scale(1,-1)"><tspan
                        sodipodi:role="line"
                        id="tspan7-0-5-3-9-7-6"
                        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64676px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.37266"
-                       x="215.08557"
-                       y="-66.446014">beide müssen hinter dir sein</tspan></text>
+                       x="214.3129"
+                       y="-87.443359">beide müssen hinter dir sein</tspan></text>
                 </g>
                 <path
                    style="display:inline;opacity:0.25;fill:#800080;fill-opacity:1;stroke:none;stroke-width:10.7753;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -1454,7 +1465,7 @@
                    d="m 58.579521,223.51391 -4.628116,-3.09034 -5.169499,2.06057 1.508923,-5.35657 -3.557181,-4.27973 5.560681,-0.2202 2.97104,-4.7056 1.927767,5.22048 5.393385,1.37152 -4.369255,3.44663 z"
                    inkscape:transform-center-x="0.0085566391"
                    inkscape:transform-center-y="1.0380949"
-                   transform="matrix(-1.3006051,-0.13337082,-0.13337082,1.3006051,586.26824,-80.643058)" />
+                   transform="matrix(-1.3006051,-0.13337082,-0.13337082,1.3006051,589.75524,-80.643058)" />
               </g>
               <g
                  id="g1-0"
